@@ -7,7 +7,7 @@ package kata3;
 
 /**
  *
- * @author Entrar
+ * @author Héctor
  */
 public class Kata3 {
 
